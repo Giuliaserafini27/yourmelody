@@ -1,0 +1,270 @@
+.header {
+    background-color:#C38DF7 !important;
+    letter-spacing: 0.05em;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 3;
+}
+
+
+h1 {
+    margin-left: 0%;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 2em;
+}
+
+#logoheader {
+    height: 70px;
+    width: auto;
+}
+
+
+nav ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 0% 0% 0% 0%;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+.marginul {
+    margin: auto;
+}
+
+.navmargin {
+    margin-left: 4%;
+}
+
+.margindanav {
+    margin-top: 130px;
+}
+
+.lillalink {
+    color: #4C2075 !important;
+    text-align: center !important;
+}
+
+.linkmargin {
+    margin: 30px;
+    font-size: 1.1em;
+    margin-bottom: 0px;
+}
+
+.lillalink:hover {
+    text-decoration: underline;
+}
+
+.active {
+    font-weight: 600;
+}
+
+.noactive {
+    font-weight: 300;
+    color: black !important;
+}
+
+.noactive:hover {
+    font-weight: 600;
+    text-decoration: none;
+}
+
+
+.active, .noactive {
+    font-size: 1.5em !important;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.briciole {
+    font-size: 0.7em;
+    padding: 0% 2%;
+}
+
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 1.2em;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    margin: 4% 0% 3% 0%;
+    color:#A500E0;
+}
+
+h4 {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: #4C2075;
+    font-size: 1.5em;
+}
+
+h5 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    margin-left: 5%;
+    font-size: 1.2em;
+    margin-top: 2%;
+}
+
+h6 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    margin-left: 5%;
+    font-size: 1.1em;
+    margin-top: 2%;
+}
+
+.paragrafosize {
+    font-family: 'Lora', serif;
+    font-weight: 400;
+    font-size: 1.1em;
+}
+
+.color {
+    background-color: #C38DF7 !important;
+}
+
+.center {
+    text-align: center;
+}
+
+body {
+    padding: 0px !important;
+    margin: 0px;
+    scroll-behavior: smooth;
+    line-height: 1.5em;
+    position: relative;
+}
+
+
+.card {
+    margin: 0% 10%;
+}
+
+.icona {
+    color: #4C2075;
+    font-size: 3em;
+    margin-bottom: 7%;
+}
+
+.margintop {
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+footer {
+    color:#4C2075 !important;
+    font-family: 'Lora', serif;
+    font-size: 0.8em;
+    margin-top: 8%;
+    text-align: center;
+}
+    
+#logofooter {
+    height: 60%;
+    width: auto;
+}
+
+img {
+    opacity: 1;
+    transition: opacity .25s ease-in-out;
+}
+
+img:hover {
+    opacity: 0.7;
+  }
+
+.recensioni:hover {
+    opacity: 1 !important;
+}
+
+.playlist {
+    text-align: center !important;
+    margin: 5% 0%;
+}
+
+.first::first-letter {
+    font-size: 3em;
+    color:#C38DF7;
+    text-transform: uppercase;
+}
+
+.cardgeneri {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.linkartisti {
+    text-align: center;
+}
+
+.linkgeneri:hover {
+    color: #C38DF7;
+    text-decoration: none;
+    font-weight: 600;
+}
+.linkgeneri:visited {
+    color: #4C2075;
+    font-weight: 400;
+}
+
+.margineartisti {
+    margin-top: 6%;
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+.margingeneri {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+.rilievomusica {
+    font-size: 1.5em !important;
+    font-family: 'Lora', serif;
+    color: #C38DF7;
+}
+
+#introduzioneattività {
+    margin-top: 5%;
+}
+
+.containercard {
+    text-align: center;
+    margin: auto;
+    padding: 0%;
+}
+
+.homecard {
+    margin: 2% 0%;
+    padding: 0%;
+}
+
+#architettura {
+    height: 400px;
+}
+
+#sectionarchitettura {
+    text-align: center;
+}
+
+.marginedocumentazione {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    line-height: 1.5em;
+}
+
+.marginewireframe {
+    margin-top: 2%;
+}
