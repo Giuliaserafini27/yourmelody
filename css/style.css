@@ -207,7 +207,7 @@ img:hover {
 }
 
 .linkgeneri {
-    color: #C38DF7;
+    color: #C38DF7 !important;
 }
 .linkgeneri:hover {
     color: #C38DF7;
