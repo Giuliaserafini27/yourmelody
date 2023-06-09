@@ -206,6 +206,9 @@ img:hover {
     text-align: center;
 }
 
+.linkgeneri {
+    color: #C38DF7;
+}
 .linkgeneri:hover {
     color: #C38DF7;
     text-decoration: none;
