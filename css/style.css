@@ -214,8 +214,9 @@ img:hover {
     text-decoration: none;
     font-weight: 600;
 }
+
 .linkgeneri:visited {
-    color: #4C2075;
+    color: #4C2075 !important;
     font-weight: 400;
 }
 
