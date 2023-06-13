@@ -254,7 +254,7 @@ img:hover {
 }
 
 #architettura {
-    height: 400px;
+    height: 350px;
 }
 
 #sectionarchitettura {
@@ -271,4 +271,16 @@ img:hover {
 
 .marginewireframe {
     margin-top: 2%;
+}
+
+#visiteutenti {
+    width: 650px;
+}
+
+#likesito {
+    height: 400px;
+}
+
+.commenti {
+    width: 300px;
 }
